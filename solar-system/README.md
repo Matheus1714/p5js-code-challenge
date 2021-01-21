@@ -1,3 +1,3 @@
 # Solar System
 
-![](img/system.png)
+![](img/solar.gif)

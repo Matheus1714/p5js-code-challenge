@@ -1,3 +1,3 @@
 # Snake Game
 
-![](img/snake.png)
+![](img/snake.gif)

@@ -1,3 +1,3 @@
 # Puple Rain
 
-![](img/rain.png)
+![](img/rain.gif)

@@ -1,3 +1,3 @@
 # Fractal Tree
 
-![](img/tree.png)
+![](img/tree.gif)

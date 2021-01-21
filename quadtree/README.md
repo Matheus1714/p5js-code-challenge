@@ -1,3 +1,3 @@
 # Quad Tree
 
-![](img/quadtree.png)
+![](img/quad.gif)

@@ -1,3 +1,3 @@
 # STARTFIELD
 
-![](img/stars.png)
+![](img/star.gif)

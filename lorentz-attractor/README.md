@@ -1,3 +1,3 @@
 # Lorentz Attractor
 
-![](img/lorentz.png)
+![](img/lorentz.gif)

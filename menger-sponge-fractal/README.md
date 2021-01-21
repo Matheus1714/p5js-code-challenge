@@ -1,3 +1,3 @@
 # Menger Sponge Fractal
 
-![](img/box.png)
+![](img/sponge.gif)
